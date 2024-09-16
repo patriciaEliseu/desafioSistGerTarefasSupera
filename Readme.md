@@ -2,4 +2,4 @@
 
 ## Meu ToDo List.
 
- <img width="300px" height="300px" src="UML.png">
+ <img width="6000px" height="300px" src="UML.png">
